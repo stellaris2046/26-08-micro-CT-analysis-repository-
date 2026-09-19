@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mouse Jaw Micro-CT Analysis"
+  short_description: "Review calibrated mouse-jaw CEJ-ABC and BV/TV workflows"
+  default_prompt: "Use $mimics-mouse-jaw-analysis to review my mouse-jaw micro-CT source geometry and plan calibrated CEJ-ABC or BV/TV analysis."

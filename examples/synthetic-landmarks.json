@@ -1,0 +1,9 @@
+{
+  "description": "Entirely invented coordinates for arithmetic testing; no experimental data.",
+  "pixel_spacing_mm": [0.01, 0.02],
+  "axis_unit_xy": [0, 1],
+  "measurements": [
+    {"id": "synthetic-a", "cej_xy": [5, 10], "abc_xy": [99, 13]},
+    {"id": "synthetic-b", "cej_xy": [8, 4], "abc_xy": [8, 6]}
+  ]
+}
